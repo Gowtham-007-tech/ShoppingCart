@@ -4,6 +4,8 @@ A simple Java web application that allows user to add the product and search usi
     => xampp <br>
     => Netbeans
  # In Xampp
-    ![](C:\Users\Gowtham\Pictures\Screenshots\Screenshot(12).png)
+    1. You have create a database 'menu' in xampp.
+    2. In that database you have to create a table product with name, id, Gst, and price.
+  you can verify the output from the image resorce folder
     
  
